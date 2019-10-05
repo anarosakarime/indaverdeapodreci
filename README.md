@@ -1,7 +1,7 @@
 ## **Dia 1**
 ***
 
-<!-- wp:paragraph -->
+<!-- wp:paragraph {"align":"justify"} -->
 <p>Ontem não consegui pegar no sono, e isso tem acontecido com frequência. Dormi mal, por umas 3h só, e nesse período tive um pesadelo. O mesmo de sempre. Eu voltava do trabalho, no final da tarde, via as pessoas com um comportamento estranho, correndo, chorando, rezando... O ar poluído não permitia enxergar o horizonte, mas definitivamente algo ao longe estava errado. De repente, uma luz forte. Todos mortos, menos eu. Acordei hoje com os lençóis encharcados de suor.</p>
 <!-- /wp:paragraph -->
 
